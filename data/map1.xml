@@ -1,0 +1,269 @@
+
+<dataset2 xmlns="xsdbooks"> <Count Data="5">
+    <UTC>Mon Apr 16 2018 12:45:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471506</Lat>
+    <Lon>-4.717236</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="6">
+    <UTC>Mon Apr 16 2018 12:45:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471506</Lat>
+    <Lon>-4.717249</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="7">
+    <UTC>Mon Apr 16 2018 12:45:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471491</Lat>
+    <Lon>-4.717253</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="8">
+    <UTC>Mon Apr 16 2018 12:45:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471476</Lat>
+    <Lon>-4.717255</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="9">
+    <UTC>Mon Apr 16 2018 12:46:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471464</Lat>
+    <Lon>-4.717271</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="10">
+    <UTC>Mon Apr 16 2018 12:46:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471480</Lat>
+    <Lon>-4.717262</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="11">
+    <UTC>Mon Apr 16 2018 12:46:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471495</Lat>
+    <Lon>-4.717249</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="12">
+    <UTC>Mon Apr 16 2018 12:46:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471506</Lat>
+    <Lon>-4.717235</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="13">
+    <UTC>Mon Apr 16 2018 12:47:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471518</Lat>
+    <Lon>-4.717235</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="14">
+    <UTC>Mon Apr 16 2018 12:47:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471514</Lat>
+    <Lon>-4.717234</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="15">
+    <UTC>Mon Apr 16 2018 12:47:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471503</Lat>
+    <Lon>-4.717231</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="16">
+    <UTC>Mon Apr 16 2018 12:47:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471484</Lat>
+    <Lon>-4.717244</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="17">
+    <UTC>Mon Apr 16 2018 12:48:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471468</Lat>
+    <Lon>-4.717254</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="18">
+    <UTC>Mon Apr 16 2018 12:48:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471461</Lat>
+    <Lon>-4.717241</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="19">
+    <UTC>Mon Apr 16 2018 12:48:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471464</Lat>
+    <Lon>-4.717249</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="20">
+    <UTC>Mon Apr 16 2018 12:48:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471472</Lat>
+    <Lon>-4.717232</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="21">
+    <UTC>Mon Apr 16 2018 12:49:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471487</Lat>
+    <Lon>-4.717198</Lon>
+    <HGT>81</HGT>
+</Count>
+<Count Data="22">
+    <UTC>Mon Apr 16 2018 12:49:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471541</Lat>
+    <Lon>-4.717181</Lon>
+    <HGT>78</HGT>
+</Count>
+<Count Data="23">
+    <UTC>Mon Apr 16 2018 12:49:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471548</Lat>
+    <Lon>-4.717173</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="24">
+    <UTC>Mon Apr 16 2018 12:49:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471548</Lat>
+    <Lon>-4.717169</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="25">
+    <UTC>Mon Apr 16 2018 12:50:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471545</Lat>
+    <Lon>-4.717172</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="26">
+    <UTC>Mon Apr 16 2018 12:50:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471533</Lat>
+    <Lon>-4.717189</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="27">
+    <UTC>Mon Apr 16 2018 12:50:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471525</Lat>
+    <Lon>-4.717187</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="28">
+    <UTC>Mon Apr 16 2018 12:50:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471533</Lat>
+    <Lon>-4.717169</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="29">
+    <UTC>Mon Apr 16 2018 12:51:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471537</Lat>
+    <Lon>-4.717163</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="30">
+    <UTC>Mon Apr 16 2018 12:51:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471537</Lat>
+    <Lon>-4.717174</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="31">
+    <UTC>Mon Apr 16 2018 12:51:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471537</Lat>
+    <Lon>-4.717184</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="32">
+    <UTC>Mon Apr 16 2018 12:51:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471552</Lat>
+    <Lon>-4.717177</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="33">
+    <UTC>Mon Apr 16 2018 12:52:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471571</Lat>
+    <Lon>-4.717170</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="34">
+    <UTC>Mon Apr 16 2018 12:52:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471583</Lat>
+    <Lon>-4.717168</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="35">
+    <UTC>Mon Apr 16 2018 12:52:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471594</Lat>
+    <Lon>-4.717165</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="36">
+    <UTC>Mon Apr 16 2018 12:52:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471594</Lat>
+    <Lon>-4.717175</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="37">
+    <UTC>Mon Apr 16 2018 12:53:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471594</Lat>
+    <Lon>-4.717170</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="38">
+    <UTC>Mon Apr 16 2018 12:53:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471575</Lat>
+    <Lon>-4.717186</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="39">
+    <UTC>Mon Apr 16 2018 12:53:37 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471556</Lat>
+    <Lon>-4.717189</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="40">
+    <UTC>Mon Apr 16 2018 12:53:52 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471541</Lat>
+    <Lon>-4.717188</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="41">
+    <UTC>Mon Apr 16 2018 12:54:07 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471514</Lat>
+    <Lon>-4.717198</Lon>
+    <HGT>76</HGT>
+</Count>
+<Count Data="42">
+    <UTC>Mon Apr 16 2018 12:54:22 GMT+0100 (BST)</UTC>
+    <FixType>3D-Fix</FixType>
+    <Lat>50.471499</Lat>
+    <Lon>-4.717199</Lon>
+    <HGT>76</HGT>
+</Count>
+
+</dataset2>
